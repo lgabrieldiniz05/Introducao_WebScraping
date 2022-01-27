@@ -1,6 +1,6 @@
 # Introducao_WebScraping
 Uilizando BeautifulSoup.
-<h6>import requests
+<h6>import requests <br>
 from bs4 import BeautifulSoup
 
 
